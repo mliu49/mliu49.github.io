@@ -1,0 +1,10 @@
+name: web_env
+channels:
+  - defaults
+  - conda-forge
+  - jcarlin
+dependencies:
+  - python
+  - pelican
+  - markdown
+  - typogrify
